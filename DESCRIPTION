@@ -30,3 +30,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/jiarong0829/hw04pjiarong0829
+BugReports: https://github.com/jiarong0829/hw04pjiarong0829/issues

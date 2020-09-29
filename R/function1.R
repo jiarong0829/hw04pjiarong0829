@@ -1,3 +1,12 @@
+#' Title
+#'
+#' @param x
+#' @param n
+#'
+#' @return
+#' @export
+#'
+#' @examples
 myseq_n <- function(x, n) {
   if (n <= 0) {
     stop("n should large than 0")

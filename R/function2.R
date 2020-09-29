@@ -1,3 +1,11 @@
+#' Title
+#'
+#' @param x
+#'
+#' @return
+#' @export
+#'
+#' @examples
 myseq_graph <- function(x){
   if (is.data.frame(x) != "TRUE"){
     stop("x should be data frame")
